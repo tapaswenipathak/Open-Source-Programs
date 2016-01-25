@@ -11,4 +11,5 @@
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes |
 | [GCI](https://www.google-melange.com/gci/homepage/google/gci2014) | Prizes for winners |
 | [GSOC](https://www.google-melange.com/gsoc/homepage/google/gsoc2015) | Yes |
+| [SOCIS](http://sophia.estec.esa.int/socis/) | Yes |
 
