@@ -12,4 +12,4 @@
 | [GCI](https://www.google-melange.com/gci/homepage/google/gci2014) | Prizes for winners |
 | [GSOC](https://www.google-melange.com/gsoc/homepage/google/gsoc2015) | Yes |
 | [SOCIS](http://sophia.estec.esa.int/socis/) | Yes |
-
+| [OpenDaylight summer internship program] (https://www.opendaylight.org/opendaylight-summer-internship-program) | Yes |
