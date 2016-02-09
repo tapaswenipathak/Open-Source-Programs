@@ -13,3 +13,6 @@
 | [GSOC](https://www.google-melange.com/gsoc/homepage/google/gsoc2015) | Yes |
 | [SOCIS](http://sophia.estec.esa.int/socis/) | Yes |
 | [OpenDaylight summer internship program] (https://www.opendaylight.org/opendaylight-summer-internship-program) | Yes |
+| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
+| [DataONE Summer Internship Program](https://www.dataone.org/internships) | Yes (USA citizens only)|
+| [SOCIS](http://sophia.estec.esa.int/socis/) | Yes |
