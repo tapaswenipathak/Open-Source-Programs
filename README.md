@@ -5,7 +5,7 @@
 |-----------------------------------------|-------------|
 | [Season of KDE](https://season.kde.org) | No      |
 | [OWASP SOC](https://www.owasp.org/index.php/Summer_Code_Sprint2015) | Yes |
-| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2015) | No |
+| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes |
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes |
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes |
