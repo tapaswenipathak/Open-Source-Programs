@@ -16,5 +16,6 @@
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
 | [DataONE Summer Internship Program](https://www.dataone.org/internships) | Yes*|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
+| [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
