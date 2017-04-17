@@ -16,3 +16,4 @@
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
 | [DataONE Summer Internship Program](https://www.dataone.org/internships) | Yes (USA citizens only)|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
+| [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners(Indian Student)|
