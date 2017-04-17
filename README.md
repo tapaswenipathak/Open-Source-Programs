@@ -12,8 +12,11 @@
 | [GCI](https://www.google-melange.com/gci/homepage/google/gci2014) | Prizes for winners |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes |
 | [SOCIS](http://sophia.estec.esa.int/socis/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |
-| [OpenDaylight summer internship program] (https://www.opendaylight.org/opendaylight-summer-internship-program) | Yes |
+| [OpenDaylight summer internship program](https://www.opendaylight.org/opendaylight-summer-internship-program) | Yes |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
-| [DataONE Summer Internship Program](https://www.dataone.org/internships) | Yes (USA citizens only)|
+| [DataONE Summer Internship Program](https://www.dataone.org/internships) | Yes*|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
+| [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
 | [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners(Indian Student)|
+
+*Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
