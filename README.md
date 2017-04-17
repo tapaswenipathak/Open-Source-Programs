@@ -17,5 +17,6 @@
 | [DataONE Summer Internship Program](https://www.dataone.org/internships) | Yes*|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
 | [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
+| [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners(Indian Student)|
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
