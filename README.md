@@ -4,7 +4,7 @@
 | Name                                    | Stipend |
 |-----------------------------------------|-------------|
 | [Season of KDE](https://season.kde.org) | No      |
-| [OWASP SOC](https://www.owasp.org/index.php/Summer_Code_Sprint2015) | Yes |
+| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes |
 | [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes |
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes |
