@@ -20,6 +20,7 @@
 | [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners(Indian Student)|
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |
 | [OPNFV- Linux Foundation](https://wiki.opnfv.org/display/DEV/Internship-program) | Yes |
+| [Kharagpur Winter of Code](https://kwoc.kossiitkgp.in) | No |
 
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
