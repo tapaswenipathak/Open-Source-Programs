@@ -25,3 +25,13 @@
 | [RARE Technologies Student Incubator Program](https://rare-technologies.com/incubator/#details) | Yes |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
+
+
+# Open Source Competitions
+
+
+| Name                                    | Awards |
+|-----------------------------------------|-------------|
+| [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners*|
+
+*Indian Students Only
