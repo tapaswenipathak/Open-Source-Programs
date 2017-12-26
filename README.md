@@ -23,6 +23,7 @@
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
 | [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
 | [RARE Technologies Student Incubator Program](https://rare-technologies.com/incubator/#details) | Yes |
+| [Kharagpur Winter of Code](https://kwoc.kossiitkgp.in/) | No |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 
