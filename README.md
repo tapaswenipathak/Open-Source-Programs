@@ -33,5 +33,6 @@
 | Name                                    | Awards |
 |-----------------------------------------|-------------|
 | [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners*|
+| [India Hacks - Open Source Track](https://www.hackerearth.com/sprints/open-source-india-hacks-2016/) | Prizes for winners|
 
 *Indian Students Only
