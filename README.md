@@ -33,5 +33,12 @@
 | Name                                    | Awards |
 |-----------------------------------------|-------------|
 | [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners*|
+| [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners|
+| [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|
+| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards|
+| [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|
+| [OSS World Challenge](http://ossaward.org/eng/m0101.do) | Prizes for winners**|
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
 
 *Indian Students Only
