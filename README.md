@@ -23,9 +23,10 @@
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
 | [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
 | [RARE Technologies Student Incubator Program](https://rare-technologies.com/incubator/#details) | Yes |
+| [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
-
+** OSoC is only open to Belgian students.
 
 # Open Source Competitions
 
@@ -42,3 +43,4 @@
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
 
 *Indian Students Only
+** OSS World Challenge has temporarily stopped accepting international applications.
