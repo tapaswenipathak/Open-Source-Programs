@@ -25,6 +25,12 @@
 | [RARE Technologies Student Incubator Program](https://rare-technologies.com/incubator/#details) | Yes |
 | [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
 | [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
+| [Snowplow](https://snowplowanalytics.com/blog/2015/04/09/announcing-our-summer-internship-program/) | Yes |
+| [DataOne](https://www.dataone.org/internships) | Yes |
+| [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |
+
+
+
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
