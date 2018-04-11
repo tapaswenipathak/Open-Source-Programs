@@ -25,6 +25,7 @@
 | [RARE Technologies Student Incubator Program](https://rare-technologies.com/incubator/#details) | Yes |
 | [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
 | [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
+| [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
