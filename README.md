@@ -9,7 +9,6 @@
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes |
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes |
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes |
-| [GCI](https://www.google-melange.com/gci/homepage/google/gci2014) | Prizes for winners |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes |
 | [SOCIS](http://sophia.estec.esa.int/socis/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |
 | [OpenDaylight summer internship Programme](https://wiki.opendaylight.org/view/Interns) | Yes |
@@ -35,6 +34,7 @@
 
 | Name                                    | Awards |
 |-----------------------------------------|-------------|
+| [GCI](https://www.google-melange.com/gci/homepage/google/gci2014) | Prizes for winners |
 | [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners*|
 | [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners|
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|
