@@ -42,6 +42,6 @@
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|
 | [OSS World Challenge](http://ossaward.org/eng/m0101.do) | Prizes for winners**|
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
-
+| [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
 *Indian Students Only
 ** OSS World Challenge has temporarily stopped accepting international applications.
