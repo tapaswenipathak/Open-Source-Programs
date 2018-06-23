@@ -31,7 +31,7 @@
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
-
+| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
