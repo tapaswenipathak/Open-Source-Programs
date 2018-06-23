@@ -25,9 +25,13 @@
 | [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
 | [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
 | [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
+| [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |
+| [DataOne](https://www.dataone.org/internships) | Yes |
+| [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
+
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
