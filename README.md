@@ -23,8 +23,9 @@
 | [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes |
 | [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
-| [Hyperledger Internship Programme](https://wiki.hyperledger.org/internship/program_overview) | Yes |
 | [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
+| [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
+| [John Hunter Technology Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship) | Yes |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
@@ -43,6 +44,6 @@
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|
 | [OSS World Challenge](http://ossaward.org/eng/m0101.do) | Prizes for winners**|
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
-
+| [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
 *Indian Students Only
 ** OSS World Challenge has temporarily stopped accepting international applications.
