@@ -41,7 +41,7 @@
 
 | Name                                    | Awards |
 |-----------------------------------------|-------------|
-| [GCI](https://www.google-melange.com/gci/homepage/google/gci2014) | Prizes for winners |
+| [GCI](https://codein.withgoogle.com/archive/) | Prizes for winners |
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|
 | [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners|
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|
