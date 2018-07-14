@@ -31,7 +31,7 @@
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
-
+| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
@@ -42,13 +42,13 @@
 | Name                                    | Awards |
 |-----------------------------------------|-------------|
 | [GCI](https://codein.withgoogle.com/archive/) | Prizes for winners |
-| [Bountiful Open Source Summer- BOSS](http://lab.codingblocks.com/boss/) | Prizes for winners*|
+| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|
 | [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners|
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|
 | [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards|
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|
-| [OSS World Challenge](http://ossaward.org/eng/m0101.do) | Prizes for winners**|
+| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
 *Indian Students Only
