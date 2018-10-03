@@ -1,7 +1,7 @@
 # SOC-Programs
 
 
-| Name                                    | Stipend |
+| Name                                    | Stipends |
 |-----------------------------------------|-------------|
 | [Season of KDE](https://season.kde.org) | No      |
 | [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes |
