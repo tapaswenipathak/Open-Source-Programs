@@ -3,6 +3,7 @@
 
 | Name                                    | Stipend |
 |-----------------------------------------|-------------|
+| [Season of Docs](https://developers.google.com/season-of-docs/) | Yes |
 | [Season of KDE](https://season.kde.org) | No      |
 | [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes |
 | [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No |
