@@ -48,6 +48,7 @@
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|
 | [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards|
+| [Fixvember](https://codefresh.io/fixvember/) | Swag rewards|
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
