@@ -33,9 +33,9 @@
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |
-
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
+
 
 # Open Source Competitions
 
@@ -52,5 +52,6 @@
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
+| [NJACK Winter of Code ](https://njackwinterofcode.github.io/)| Swag rewards for participants|
 *Indian Students Only
 ** OSS World Challenge has temporarily stopped accepting international applications.
