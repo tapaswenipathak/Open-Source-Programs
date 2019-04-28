@@ -24,7 +24,7 @@
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes |
 | [Open Summer of Code](https://summerofcode.be/) | Yes** |
 | [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
-| [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
+| [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program) | Yes |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
