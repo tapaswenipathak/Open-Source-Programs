@@ -25,7 +25,7 @@
 | [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
 | [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
 | [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
-| [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |
+| [Snowplow](https://snowplowanalytics.com/blog/recruitment/) | Yes |
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |
