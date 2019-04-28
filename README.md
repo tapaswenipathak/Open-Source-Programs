@@ -12,13 +12,12 @@
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes |
 | [SOCIS](https://socis.esa.int/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |
-| [OpenDaylight summer internship Programme](https://wiki.opendaylight.org/view/Interns) | Yes |
+| [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
 | [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |
-| [OPNFV- Linux Foundation](https://wiki.opnfv.org/display/DEV/Internship-program) | Yes |
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/blog/2017/11/20/want-hack-mainframe-next-summer-summer-2018-internship-program-now-accepting-applications) | Yes |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
 | [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
