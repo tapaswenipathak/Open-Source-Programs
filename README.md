@@ -54,3 +54,12 @@
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
 *Indian Students Only
 ** OSS World Challenge has temporarily stopped accepting international applications.
+# University SoC/WoC
+
+
+| Name                                    | Awards             | Timeline   |    
+|-----------------------------------------|----------------------------------- |--------------|
+| [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
+| [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards|  |
+| [Kharagpur Winter Of Code](https://kossiitkgp.org/) | Swag rewards|  |
+| [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
