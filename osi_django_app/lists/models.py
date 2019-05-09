@@ -1,4 +1,5 @@
 from django.db import models
+from django.shortcuts import reverse
 
 class soc(models.Model):
     title = models.CharField(max_length=50)
