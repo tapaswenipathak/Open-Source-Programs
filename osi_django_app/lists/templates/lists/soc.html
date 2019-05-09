@@ -1,0 +1,12 @@
+{% extends "lists/base.html" %}
+{% block content %}
+  {% for item in lists %}
+    <td><a href="{{ item.soc_homepage }}">{{ item.title }}</a></td>
+    {% if list.stripend %}
+      <td>Yes</td>
+    {% else %}
+      <td>No</td>
+    {% endif %}
+    <td><a href="{{ item.timeline }}">timeline</a></td>
+  {% endfor %}
+{% endblock content%}
