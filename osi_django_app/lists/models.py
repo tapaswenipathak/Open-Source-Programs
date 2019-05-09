@@ -5,7 +5,7 @@ class soc(models.Model):
     title = models.CharField(max_length=50)
     soc_homepage = models.URLField(default=None)
     stripend = models.BooleanField(default=False)
-    timeline = models.URLField(default=None)
+    timeline = models.URLField(blank=True)
 
     def __str__(self):
         return self.title
