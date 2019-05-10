@@ -15,7 +15,7 @@ class soc_create_view(CreateView):
     model = soc
     fields = ['title', 'soc_homepage', 'stripend', 'timeline']
 
-def osc_view(request):
+def osc_view(reques):
     context = {
         'lists': osc.objects.filter(publish=True)
     }
@@ -27,7 +27,7 @@ class osc_create_view(CreateView):
 
 def usocwoc(request):
     context = {
-        'lists': univ_soc_woc.filter(publish=True)
+        'lists': univ_soc_woc.objects.filter(publish=True)
     }
     return render(request, 'lists/u-soc-woc.html', context)
 
