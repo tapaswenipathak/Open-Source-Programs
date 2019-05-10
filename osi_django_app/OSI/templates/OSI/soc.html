@@ -1,0 +1,22 @@
+{% extends "lists/base.html" %}
+{% block prize %}
+  <th>Stripend</th>
+{% endblock prize %}
+{% block content %}
+  {% for item in lists %}
+  <tr>
+    <td><a href="{{ item.soc_homepage }}">{{ item.title }}</a></td>
+    {% if item.stripend %}
+      <td>Yes</td>
+    {% else %}
+      <td>No</td>
+    {% endif %}
+    {% if item.timeline is '' %}
+      <td>timeline</td>
+    {% else %}
+      <td><a href="{{ item.timeline }}">timeline</a></td>
+    {% endif %}
+  </tr>
+  {% endfor %}
+{% endblock content%}
+{% block link %}<a href="{% url 'soc-create' %}">Add a new summer of code programme </a>{% endblock link %}

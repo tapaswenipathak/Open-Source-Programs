@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'OSI.apps.OsiConfig',
     'lists.apps.ListsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
