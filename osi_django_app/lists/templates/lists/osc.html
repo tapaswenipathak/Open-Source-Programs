@@ -1,90 +1,18 @@
-<!DOCTYPE html>
-<html>
-    <html lang="en">
-    <head>
-        <title>SOC Programs</title>
-        <meta charset="UTF-8">
-        <meta name="description", content="SOC Programs">
-        <meta name="author", content="Mridu Bhatnagar">
-        <meta http-equiv="Content-Type" content="text/html">
-        <style>
-           table, th, td {
-           border: 1px solid black;
-           border-collapse: collapse;
-           }
-        </style>
-    </head>
-    <body>
-        <h2>Open Source Competitions</h2>
-        <table style="width:50%">
-            <tr>
-              <thead>
-                <th>Name</th>
-                <th>Awards</th>
-                <th>Timeline</th>
-              </thead>
-            </tr>
-            <tr>
-              <td><a href="https://codein.withgoogle.com/archive/">GCI</a></td>
-              <td>Prizes for winners</td>
-              <td><a href="https://developers.google.com/open-source/gci/timeline">timeline</a></td>
-            </tr>
-            <tr>
-              <td><a href="https://lab.codingblocks.com/boss">Bountiful Open Source Summer- BOSS</a></td>
-              <td>Prizes for winners*</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="https://codeheat.org/">FOSSASIA Codeheat</a></td>
-              <td>Prizes for winners</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="https://www.drivendata.org/competitions/">Data Driven Competitions</a></td>
-              <td>Cash prizes for winners</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="https://www.quantopian.com/open">Quantopian Open</a></td>
-              <td>Cash prizes for winners</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a></td>
-              <td>Swag rewards</td>
-              <td><a href="https://hacktoberfest.digitalocean.com/details">timeline</a></td>
-            </tr>
-            <tr>
-              <td><a href="https://codefresh.io/fixvember/">Fixvember</a></td>
-              <td>Swag rewards</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="https://halite.io/">Halite AI Bot Challenge</a></td>
-              <td>Swag rewards for winners</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="https://www.oss.kr/en_oss_world_challenage">OSS World Challenge</a></td>
-              <td>Prizes for winners**</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="http://sigmm.org/Resources/software/ossc">ACM MM Open Source Software Competition</a></td>
-              <td>Prize for winners</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="http://gssoc.tech/">Girlscript Summer of Code</a></td>
-              <td>Prizes, swag rewards and internship opportunities for winners</td>
-              <td><a href="https://www.gssoc.tech/index.html#sch-heading">timeline</td>
-            </tr>
-            <br>
-        </table>
-        <ul>
-          <li>*Indian Students Only</li>
-          <li>**OSS World Challenge has temporarily stopped accepting international applications.</li>
-        </ul>
-        <br>
-    </body>
-</html>
+{% extends "lists/base.html" %}
+{% block prize %}
+  <th>Stripend</th>
+{% endblock prize %}
+{% block content %}
+  {% for item in lists %}
+  <tr>
+    <td><a href="{{ item.osc_homepage }}">{{ item.title }}</a></td>
+    <td>{{ item.awards }}</td>
+    {% if item.timeline is '' %}
+      <td>timeline</td>
+    {% else %}
+      <td><a href="{{ item.timeline }}">timeline</a></td>
+    {% endif %}
+  </tr>
+  {% endfor %}
+{% endblock content %}
+{% block link %}<a href="{% url 'osc-create' %}">Add a new open source competition programme </a>{% endblock link %}
