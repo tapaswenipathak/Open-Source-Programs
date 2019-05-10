@@ -7,7 +7,7 @@ def index(request):
 
 def soc_view(request):
     context = {
-        'lists': soc.objects.all()
+        'lists': soc.objects.filter(publish=True)
     }
     return render(request, 'lists/soc.html', context)
 
@@ -17,7 +17,7 @@ class soc_create_view(CreateView):
 
 def osc_view(request):
     context = {
-        'lists': osc.objects.all()
+        'lists': osc.objects.filter(publish=True)
     }
     return render(request, 'lists/osc.html', context)
 
@@ -27,7 +27,7 @@ class osc_create_view(CreateView):
 
 def usocwoc(request):
     context = {
-        'lists': univ_soc_woc.objects.all()
+        'lists': univ_soc_woc.filter(publish=True)
     }
     return render(request, 'lists/u-soc-woc.html', context)
 
