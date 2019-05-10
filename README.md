@@ -11,7 +11,7 @@
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
-| [SOCIS](https://socis.esa.int/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |    |
+| [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
 | [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes |          |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |     | 
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
