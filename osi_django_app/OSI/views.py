@@ -3,7 +3,7 @@ from django.views.generic import CreateView
 from .models import soc, osc, univ_soc_woc
 
 def index(request):
-    return render(request, 'lists/index.html')
+    return render(request, 'OSI/index.html')
 
 def soc_view(request):
     context = {
