@@ -13,7 +13,7 @@ def soc_view(request):
 
 class soc_create_view(CreateView):
     model = soc
-    fields = ['title', 'soc_homepage', 'stripend', 'timeline']
+    fields = ['title', 'soc_homepage', 'stipend', 'timeline']
 
 def osc_view(request):
     context = {

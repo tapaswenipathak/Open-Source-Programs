@@ -4,7 +4,7 @@ from django.shortcuts import reverse
 class soc(models.Model):
     title = models.CharField(max_length=50)
     soc_homepage = models.URLField(default=None)
-    stripend = models.BooleanField(default=False)
+    stipend = models.BooleanField(default=False)
     timeline = models.URLField(blank=True)
     publish = models.BooleanField(default=False)
 
