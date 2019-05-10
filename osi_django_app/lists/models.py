@@ -6,6 +6,7 @@ class soc(models.Model):
     soc_homepage = models.URLField(default=None)
     stripend = models.BooleanField(default=False)
     timeline = models.URLField(blank=True)
+    publish = models.BooleanField(default=False)
 
     def __str__(self):
         return self.title
@@ -18,6 +19,7 @@ class osc(models.Model):
     osc_homepage = models.URLField(default=None)
     awards = models.CharField(max_length=50)
     timeline = models.URLField(blank=True)
+    publish = models.BooleanField(default=False)
 
     def __str__(self):
         return self.title
@@ -30,6 +32,7 @@ class univ_soc_woc(models.Model):
     homepage = models.URLField(default=None)
     awards = models.CharField(max_length=50)
     timeline = models.URLField(blank=True)
+    publish = models.BooleanField(default=False)
 
     def __str__(self):
         return self.title
