@@ -7,8 +7,8 @@
   <tr>
     <td><a href="{{ item.homepage }}">{{ item.title }}</a></td>
     <td>{{ item.awards }}</td>
-    {% if item.timeline is '' %}
-      <td>timeline</td>
+    {% if item.timeline == None %}
+      <td></td>
     {% else %}
       <td><a href="{{ item.timeline }}">timeline</a></td>
     {% endif %}
