@@ -13,7 +13,7 @@ def soc_view(request):
 
 class soc_create_view(CreateView):
     model = soc
-    fields = ['title', 'soc_homepage', 'stipend', 'timeline']
+    fields = ['title', 'homepage', 'stipend', 'timeline']
 
 def osc_view(request):
     context = {
@@ -23,7 +23,7 @@ def osc_view(request):
 
 class osc_create_view(CreateView):
     model = osc
-    fields = ['title', 'osc_homepage', 'awards', 'timeline']
+    fields = ['title', 'homepage', 'awards', 'timeline']
 
 def usocwoc(request):
     context = {

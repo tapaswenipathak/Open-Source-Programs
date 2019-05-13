@@ -11,8 +11,8 @@
     {% else %}
       <td>No</td>
     {% endif %}
-    {% if item.timeline is '' %}
-      <td>timeline</td>
+    {% if item.timeline == None %}
+      <td></td>
     {% else %}
       <td><a href="{{ item.timeline }}">timeline</a></td>
     {% endif %}
