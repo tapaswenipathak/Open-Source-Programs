@@ -11,7 +11,7 @@
 |-----------------------------------------|-------------|-----------------|
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) |
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://dot.kde.org/2017/11/19/announcing-season-kde-2018) |
-| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) | 
+| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) |
 | [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No | [timeline](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#Timeline) |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) |
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
@@ -19,7 +19,7 @@
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
 | [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes |          |
-| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |     | 
+| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|  |
 | [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |  |
@@ -34,12 +34,13 @@
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc/get-started) |
-| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     | 
+| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes | |
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes | |
 | [Alibaba Summer of Code](https://developer.aliyun.com/summerofcode2019) | Yes | [timeline](https://developer.aliyun.com/summerofcode2019) |
+| [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2019/) | No |   |
 
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
@@ -48,7 +49,7 @@
 # Open Source Competitions
 
 
-| Name                                    | Awards             | Timeline   |    
+| Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
 | [GCI](https://codein.withgoogle.com/archive/) | Prizes for winners | [timeline](https://developers.google.com/open-source/gci/timeline) |
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|  |
@@ -66,7 +67,7 @@
 # University SoC/WoC
 
 
-| Name                                    | Awards             | Timeline   |    
+| Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards|  |
