@@ -40,7 +40,6 @@
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes | |
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes | |
 | [Alibaba Summer of Code](https://developer.aliyun.com/summerofcode2019) | Yes | [timeline](https://developer.aliyun.com/summerofcode2019) |
-| [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2019/) | No |   |
 
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
@@ -74,3 +73,4 @@
 | [Kharagpur Winter Of Code](https://kossiitkgp.org/) | Swag rewards|  |
 | [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
 | [MDG Winter of Code](http://mdg.iitr.ac.in/woc/2018/11/23/Winter-of-Code-18) | No |
+| [FOSSEE Summer Fellowship](https://fossee.in/fellowship/2019/) | No |   |
