@@ -1,3 +1,0 @@
-I made the open-source-internship badge made by using "make static badge"
-option. The link is
-https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg
