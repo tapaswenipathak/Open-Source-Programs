@@ -1,11 +1,17 @@
-# SOC-Programs
+![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
+# SOC-Programs
+[![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/network)
+[![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/stargazers)
+[![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Open-Source-Programs.svg?label=Open-Source-Programs&style=social)](https://twitter.com/intent/tweet?text=Open Source Programs:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FOpen-Source-Programs)
 
 | Name                                    | Stipend | Timeline            |
 |-----------------------------------------|-------------|-----------------|
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) |
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://dot.kde.org/2017/11/19/announcing-season-kde-2018) |
-| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) | 
+| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) |
 | [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No | [timeline](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016#Timeline) |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) |
 | [RGSOC](http://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
@@ -13,7 +19,7 @@
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
 | [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes |          |
-| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |     | 
+| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|  |
 | [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |  |
@@ -28,7 +34,7 @@
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc/get-started) |
-| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     | 
+| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes | |
@@ -42,7 +48,7 @@
 # Open Source Competitions
 
 
-| Name                                    | Awards             | Timeline   |    
+| Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
 | [GCI](https://codein.withgoogle.com/archive/) | Prizes for winners | [timeline](https://developers.google.com/open-source/gci/timeline) |
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|  |
@@ -60,9 +66,11 @@
 # University SoC/WoC
 
 
-| Name                                    | Awards             | Timeline   |    
+| Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
 | [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards|  |
 | [Kharagpur Winter Of Code](https://kossiitkgp.org/) | Swag rewards|  |
 | [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
+| [MDG Winter of Code](http://mdg.iitr.ac.in/woc/2018/11/23/Winter-of-Code-18) | No |
+| [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
