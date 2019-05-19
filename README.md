@@ -57,6 +57,7 @@
 | [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners| |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards| [timeline](https://hacktoberfest.digitalocean.com/details) |
 | [Fixvember](https://codefresh.io/fixvember/) | Swag rewards|  |
+| [24 Pull Requests](https://24pullrequests.com/) | No prizes offered| [timeline](https://24pullrequests.com/about) |
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners| |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**| |
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners| |
