@@ -39,7 +39,7 @@
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes | |
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes | |
-| [Alibaba Summer of Code](https://developer.aliyun.com/summerofcode2019) | Yes | [timeline](https://developer.aliyun.com/summerofcode2019) |
+| [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
 | [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |     |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
