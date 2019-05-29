@@ -21,26 +21,27 @@
 | [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
-| [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|  |
+| [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
 | [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes | [timeline](https://www.radare.org/r/rsoc.html#schedule) |
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/blog/2017/11/20/want-hack-mainframe-next-summer-summer-2018-internship-program-now-accepting-applications) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
-| [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |      |
-| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes |     |
-| [Open Summer of Code](https://summerofcode.be/) | Yes** |         |
+| [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes | [timeline](https://open.segment.com/fellowship/#details)     |
+| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
+| [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://2019.summerofcode.be/practical.html)|
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     |
-| [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program) | Yes |        |
+| [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program#HyperledgerInternshipProgram-2019ProgramTimeline) |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
-| [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc/get-started) |
+| [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc#timeline) |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
+|[Millnnium Fellowship](https://milleniumfellows.org)|No|[timeline](https://milleniumfellows.org/the-program)|
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
-| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |  |
-| [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes | |
-| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes | |
+| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
+| [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
+| [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline?authuser=0) |
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
-| [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |     |
+| [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |   [timeline](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  |
 
 *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
 ** OSoC is only open to Belgian students.
