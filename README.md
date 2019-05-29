@@ -18,6 +18,7 @@
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
+| [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|  |
