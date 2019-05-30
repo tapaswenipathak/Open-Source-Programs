@@ -57,7 +57,6 @@
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|[timeline](https://www.drivendata.org/competitions/) |
 | [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|NULL |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards| [timeline](https://hacktoberfest.digitalocean.com/details) |
-| [Fixvember](https://codefresh.io/fixvember/) | Swag rewards|  |
 | [24 Pull Requests](https://24pullrequests.com/) | No prizes offered| [timeline](https://24pullrequests.com/about) |
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|NULL |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners|[timeline](https://www.oss.kr/en_oss_world_challenage#period) |
