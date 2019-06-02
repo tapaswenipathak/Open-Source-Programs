@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/network)
 [![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/stargazers)
 [![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Open-Source-Programs.svg?label=Open-Source-Programs&style=social)](https://twitter.com/intent/tweet?text=Open Source Programs:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FOpen-Source-Programs)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Open-Source-Programs.svg?label=Open-Source-Programs&style=social)](https://twitter.com/intent/tweet?text=Open%20Source%20Programs:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FOpen-Source-Programs)
 
 | Name                                    | Stipend | Timeline            |
 |-----------------------------------------|-------------|-----------------|
