@@ -51,5 +51,6 @@
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
+| [Deeproot](https://abhas.io/student-projects/) | No prizes offered|
 *Indian Students Only
 ** OSS World Challenge has temporarily stopped accepting international applications.
