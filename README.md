@@ -38,7 +38,7 @@
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc#timeline) |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
-|[Millnnium Fellowship](https://milleniumfellows.org)|No|[timeline](https://milleniumfellows.org/the-program)|
+|[Millennium Fellowship](https://milleniumfellows.org)|No|[timeline](https://milleniumfellows.org/the-program)|
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
