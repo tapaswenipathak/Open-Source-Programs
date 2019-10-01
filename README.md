@@ -60,17 +60,18 @@
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|[timeline](https://lab.codingblocks.com/boss#rules-and-eligibility)  |
 | [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners| [timeline](https://codeheat.org/#timeline)|
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|[timeline](https://www.drivendata.org/competitions/) |
-| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|NULL |
+| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners| NULL |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards| [timeline](https://hacktoberfest.digitalocean.com/details) |
 | [24 Pull Requests](https://24pullrequests.com/) | No prizes offered| [timeline](https://24pullrequests.com/about) |
-| [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|NULL |
+| [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners| NULL |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners|[timeline](https://www.oss.kr/en_oss_world_challenage#period) |
-| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|NILL |
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners| NULL |
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
-*Indian Students Only
-** OSS World Challenge has temporarily stopped accepting international applications.
-# University SoC/WoC
 
+* *Indian Students Only
+* ** OSS World Challenge has temporarily stopped accepting international applications.
+
+# University SoC/WoC
 
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
