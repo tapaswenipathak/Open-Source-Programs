@@ -65,7 +65,7 @@
 | [24 Pull Requests](https://24pullrequests.com/) | No prizes offered| [timeline](https://24pullrequests.com/about) |
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners| NULL |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners|[timeline](https://www.oss.kr/en_oss_world_challenage#period) |
-| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners| NULL |
+| [ACM MM Open Source Software Competition](https://2020.acmmm.org/) | Prize for winners| [timeline](https://2020.acmmm.org/important-dates.html) |
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
 
 * *Indian Students Only
