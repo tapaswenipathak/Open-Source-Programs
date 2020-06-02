@@ -29,7 +29,6 @@
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
-| [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes | [timeline](https://open.segment.com/fellowship/#details)     |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
 | [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://2019.summerofcode.be/practical.html)|
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     |
