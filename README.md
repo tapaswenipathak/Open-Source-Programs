@@ -22,7 +22,7 @@
 | [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
-|[Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
+|[Julia Summer of Code](https://julialang.org/jsoc/)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
 |[OWASP Code Sprint](https://www.owasp.org/index.php/GSoC2019_Ideas)|Yes|[timeline](https://www.owasp.org/index.php/GSoC)|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|[timeline](https://www.outreachy.org/)  |
 | [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes | [timeline](https://www.radare.org/r/rsoc.html#schedule) |
