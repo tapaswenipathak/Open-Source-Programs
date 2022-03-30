@@ -67,6 +67,8 @@
 | [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners| NULL |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners|[timeline](https://www.oss.kr/en_oss_world_challenage#period) |
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners| NULL |
+| [DevScript Winter of Code](https://devscript.org/woc/) | Swag rewards for winners | [timeline](https://devscript.org/woc/#schedule)   |
+| [Script Winter of Code](https://swoc.scriptindia.org/#/) | Swag rewards for winners | NULL  |
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
 
 * *Indian Students Only
@@ -84,6 +86,7 @@
 | [MDG Winter of Code](http://mdg.iitr.ac.in/woc/2018/11/23/Winter-of-Code-18) | No |
 | [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
 | [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
+| [JGEC Winter of Code](https://jwoc.tech/) | Swag rewards | [timeline](https://jwoc.tech/#timeline)   |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
 | [Delta Winter of Code (DWoC) ](https://dwoc.io/) | Swag rewards |  |
 | [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
