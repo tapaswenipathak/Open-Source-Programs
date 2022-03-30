@@ -84,6 +84,7 @@
 | [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
 | [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
+| [Delta Winter of Code (DWoC) ](https://dwoc.io/) | Swag rewards |  |
 | [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
 | [JGEC Winter of Code(JWoC)](https://jwoc.tech/) | Swag rewards|  |
 | [Delta Winter of Code(DWoC)](https://dwoc.io/) | Swag rewards|  |
