@@ -19,7 +19,8 @@
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://developers.google.com/open-source/gsoc/timeline)       |
 | [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
-| [Linux Foundation Networking Internships](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
+| [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#space-menu-link-content) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
+| [Linux Foundation Mentorship Internships](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LF+Networking+Internships#LFNetworkingInternships-Typicaltimelineforinternship) |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
 |[Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/soc/guidelines/)|
@@ -29,11 +30,10 @@
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |    [timeline](https://developers.google.com/open-source/gsoc/timeline)   |
 | [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/projects/internship-program) | Yes |  |
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |  |
-| [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes | [timeline](https://open.segment.com/fellowship/#details)     |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
 | [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://2019.summerofcode.be/practical.html)|
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     |
-| [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program#HyperledgerInternshipProgram-2019ProgramTimeline) |
+| [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/#HyperledgerMentorshipProgram-2019ProgramTimeline) |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc#timeline) |
@@ -84,3 +84,7 @@
 | [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
 | [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
+| [JGEC Winter of Code(JWoC)](https://jwoc.tech/) | Swag rewards|  |
+| [Delta Winter of Code(DWoC)](https://dwoc.io/) | Swag rewards|  |
+| [JIIT Month of Code(JMOC)](http://jmoc.jodc.tech/) | Swag rewards|  |
+| [amFOSS Developer Challenge(amDeC)](https://amdec.amfoss.in/) | Swag rewards|  |
