@@ -33,7 +33,7 @@
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes | [timeline](https://rare-technologies.com/incubator/#details)    |
 | [Open Summer of Code](https://summerofcode.be/) | Yes |[timeline](https://2019.summerofcode.be/practical.html)|
 | [FOSSASIA Internship Programme]( https://fossasia.org/internship) | Yes | [timeline](https://fossasia.org/internship)     |
-| [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Internship+Program#HyperledgerInternshipProgram-2019ProgramTimeline) |
+| [Hyperledger Internship Program](https://wiki.hyperledger.org/display/INTERN) | Yes | [timeline](https://wiki.hyperledger.org/display/INTERN/#HyperledgerMentorshipProgram-2019ProgramTimeline) |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |  |
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc#timeline) |
@@ -46,9 +46,10 @@
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
 | [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |   [timeline](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  |
+| [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/) | Yes |  |
 
-*Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.
-** OSoC is only open to Belgian students.
+* *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
+* ** OSoC is only open to Belgian students.
 
 # Open Source Competitions
 
@@ -59,17 +60,18 @@
 | [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|[timeline](https://lab.codingblocks.com/boss#rules-and-eligibility)  |
 | [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners| [timeline](https://codeheat.org/#timeline)|
 | [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|[timeline](https://www.drivendata.org/competitions/) |
-| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|NULL |
+| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners| NULL |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards| [timeline](https://hacktoberfest.digitalocean.com/details) |
 | [24 Pull Requests](https://24pullrequests.com/) | No prizes offered| [timeline](https://24pullrequests.com/about) |
-| [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|NULL |
+| [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners| NULL |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners|[timeline](https://www.oss.kr/en_oss_world_challenage#period) |
-| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|NILL |
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners| NULL |
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
-*Indian Students Only
-** OSS World Challenge has temporarily stopped accepting international applications.
-# University SoC/WoC
 
+* *Indian Students Only
+* ** OSS World Challenge has temporarily stopped accepting international applications.
+
+# University SoC/WoC
 
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
