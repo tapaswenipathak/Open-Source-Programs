@@ -83,4 +83,7 @@
 | [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
 | [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
-| [Delta Winter of Code by Delta Force NITT](https://dwoc.io/) | Swag rewards|  |
+| [JGEC Winter of Code(JWoC)](https://jwoc.tech/) | Swag rewards|  |
+| [Delta Winter of Code(DWoC)](https://dwoc.io/) | Swag rewards|  |
+| [JIIT Month of Code(JMOC)](http://jmoc.jodc.tech/) | Swag rewards|  |
+| [amFOSS Developer Challenge(amDeC)](https://amdec.amfoss.in/) | Swag rewards|  |
