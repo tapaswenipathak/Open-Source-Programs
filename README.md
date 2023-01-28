@@ -70,6 +70,7 @@
 | [DevScript Winter of Code](https://devscript.org/woc/) | Swag rewards for winners | [timeline](https://devscript.org/woc/#schedule)   |
 | [Script Winter of Code](https://swoc.scriptindia.org/#/) | Swag rewards for winners | NULL  |
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|[timeline](https://www.gssoc.tech/index.html#sch-heading)|
+| [HackSquad](https://www.hacksquad.dev/) | Amazing Swags rewards for Top-60 Teams | [timeline](https://www.hacksquad.dev/#events)   |
 
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
