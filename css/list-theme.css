@@ -70,7 +70,7 @@ video {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: rgba(221, 46, 102, 0.8);
   -webkit-transform: skewY(4deg);
   transform: skewY(4deg);
   -webkit-transform-origin: bottom right;
@@ -86,13 +86,13 @@ video {
 }
 
 .masthead .masthead-content p strong {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .masthead .masthead-content .input-group-newsletter input {
   height: auto;
   font-size: 1rem;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 .masthead .masthead-content .input-group-newsletter button {
@@ -189,13 +189,13 @@ video {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #002E66;
+    background-color: #f3f4f5;
   }
 }
 
 .btn-secondary {
   background-color: #cd9557;
-  border-color: #cd9557;
+  border-color: #fed502;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
@@ -204,5 +204,5 @@ video {
 }
 
 .input {
-  font-weight: 300 !important;
+  font-weight:500 !important;
 }
