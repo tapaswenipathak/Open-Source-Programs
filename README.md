@@ -86,7 +86,7 @@
 | [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
 | [MDG Winter of Code](http://mdg.iitr.ac.in/woc/2018/11/23/Winter-of-Code-18) | No |
 | [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
-| [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
+| [DAWOC](https://www.heroku.com/home) | No  |    |
 | [JGEC Winter of Code](https://jwoc.tech/) | Swag rewards | [timeline](https://jwoc.tech/#timeline)   |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
 | [Delta Winter of Code (DWoC) ](https://dwoc.io/) | Swag rewards |  |
