@@ -95,3 +95,4 @@
 | [Delta Winter of Code(DWoC)](https://dwoc.io/) | Swag rewards|  |
 | [JIIT Month of Code(JMOC)](http://jmoc.jodc.tech/) | Swag rewards|  |
 | [amFOSS Developer Challenge(amDeC)](https://amdec.amfoss.in/) | Swag rewards|  |
+| [NITK Winter of Code](http://woc.nitk.ac.in/) | Certificates | |
